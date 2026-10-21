@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1792597060 source:c:\users\user\downloads\rotate-vector\main.cpp
+	<iostream>
+	<vector>
+
